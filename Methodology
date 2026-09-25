@@ -1,0 +1,9 @@
+Dataset: MasakhaNEWS
+Models:
+TF-IDF + Logistic Regression (baseline)
+AfriBERTa (fine-tuned)
+Experimental setups:
+Monolingual
+Multilingual joint
+Cross-lingual transfer
+Evaluation: Weighted F1 Score
